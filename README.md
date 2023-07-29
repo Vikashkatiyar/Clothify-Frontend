@@ -1,10 +1,10 @@
-# Shop With Zosh
+# clothify: a E-Commerce Shopping Platform
 
 ### website
-https://shopwithzosh.vercel.app/
+https://clothify-shopping.vercel.app/
 
-### server spring boot
-https://github.com/ashok0001/e-commerce-server
+### Backend springBoot
+https://github.com/Vikashkatiyar/Clothify-Backend
 
 
 
