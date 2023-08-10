@@ -2,7 +2,7 @@
 import axios from 'axios';
 // const LOCALHOST='https://clothify-backend-production.up.railway.app/'
 
-export const API_BASE_URL = 'https://clothify-backend-production.up.railway.app/'
+export const API_BASE_URL = 'https://clothify-backend-production.up.railway.app'
 
 const api = axios.create({
   baseURL: API_BASE_URL,
